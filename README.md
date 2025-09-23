@@ -20,3 +20,18 @@ All analysis and visualizations are carried out using **Python (pandas, NumPy, m
 
 3. **Provide actionable insights and recommendations**  
    - Help students, universities, and policymakers better understand and manage the financial challenges faced by undergraduates.  
+
+## 📁 Repository Structure
+
+```
+📦 SDI-PROJECT-group-04/
+├── Code/
+│   └── code.ipynb
+├── Data/
+│   └── data.csv
+├── Proposal/
+│   └── Research Proposal.pdf
+├── Report/
+│   └── Report.pdf
+└── README.md
+```
