@@ -40,6 +40,6 @@ All analysis and visualizations are carried out using **Python (pandas, NumPy, m
 
 - 🎓 **fc221034** - B.P.U. Mendis (CS)  
 - 🎓 **fc221004** - H.H.D. Nagahawatta (CS)  
-- 🎓 **fc221024** - W.P. Sudasun (CS)  
+- 🎓 **fc221022** - W.P. Sudasun (CS)  
 - 🎓 **fc223002** - K.K.G.R. Sathnidu (IS)  
 - 🎓 **fc221008** - W.A.H.M. Wijayarathne (CS)  
